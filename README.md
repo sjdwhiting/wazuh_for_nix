@@ -1,2 +1,6 @@
 # wazuh_for_nix
-A Nix flake for Wazuh. 
+
+
+This is a work in progress. Feel free to use, but at this time it is not fully operational. 
+
+Contributions are welcome!
